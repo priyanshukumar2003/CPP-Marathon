@@ -4,7 +4,7 @@ NOTE : executable files aren't included in the repo.
 # Timeline
 
 |**SL NO.**|**Topic:pushpin:**|**Date &nbsp;:calendar:**|**Programs**| **Youtube Video Links :link:**|
-|------||---------------------|---------------------|---------------------|---------------------|
+|------|---------------------|---------------------|---------------------|---------------------|
 |1|Introduction to Programming|01st Oct 2022|-NONE-|[C++ Tutorials for Beginners #1](https://www.youtube.com/watch?v=j8nAHeVKL08&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=1)|
 |2|Introduction to CPP|01st Oct 2022|[Hello World Program](data/hello_world.cpp)|[C++ Tutorials for Beginners #2](https://www.youtube.com/watch?v=oW2r0r_i5Ps&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=2)|
 |3|Introduction to Variables & Data Types|01st Oct 2022|[Data Types & Comments](data/datatype_comment.cpp)|[C++ Tutorials for Beginners #3](https://www.youtube.com/watch?v=jigb6W35zHc&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=3)|
