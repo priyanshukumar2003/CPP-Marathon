@@ -1,8 +1,8 @@
 # Introduction
 Hey, there. This is my CPP-Sprint In which I learnt CPP (basics) from the playlist of [CodewithHarry](https://youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL)
 NOTE : executable files aren't included in the repo.
-# Timeline
 
+# Timeline
 |**SL NO.:1234:**|**Topic:pushpin:**|**Date:calendar:**|**Programs:technologist:**| **Youtube Video Links :link:**|
 |------|---------------------|---------------------|---------------------|---------------------|
 |1|Introduction to Programming|01st Oct 2022|-NONE-|[C++ Tutorials for Beginners #1](https://www.youtube.com/watch?v=j8nAHeVKL08&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=1)|
@@ -29,5 +29,6 @@ NOTE : executable files aren't included in the repo.
 |22|OOPs Recap & Nesting Member Function|2nd Oct 2022| |[C++ Tutorials for Beginners #22](https://www.youtube.com/watch?v=d363dW0AeS8&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=22)|
 |23|Memory Allocation & array in Classses|2nd Oct 2022|[Use of Arrays in Class](data/class_array.cpp)|[C++ Tutorials for Beginners #23](https://www.youtube.com/watch?v=qq05D2yFIHA&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=23)|
 |24|Static Data Members & Methods in OOPs|2nd Oct 2022|[Static Data Member](data/class_var.cpp), [Static Member Function](data/static_func.cpp)|[C++ Tutorials for Beginners #24](https://www.youtube.com/watch?v=QcLI2zGVYFo&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=24)|
+
 
 Additionals :- experiments.cpp
