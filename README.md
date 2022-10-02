@@ -29,7 +29,10 @@ NOTE : executable files aren't included in the repo.
 |22|OOPs Recap & Nesting Member Function|2nd Oct 2022| |[C++ Tutorials for Beginners #22](https://www.youtube.com/watch?v=d363dW0AeS8&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=22)|
 |23|Memory Allocation & array in Classses|2nd Oct 2022|[Use of Arrays in Class](data/class_array.cpp)|[C++ Tutorials for Beginners #23](https://www.youtube.com/watch?v=qq05D2yFIHA&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=23)|
 |24|Static Data Members & Methods in OOPs|2nd Oct 2022|[Static Data Member](data/class_var.cpp), [Static Member Function](data/static_func.cpp)|[C++ Tutorials for Beginners #24](https://www.youtube.com/watch?v=QcLI2zGVYFo&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=24)|
-|25|Array of Objects & Passing Objects as argument|2nd Oct 2022|
 
+|**Day:pushpin:**|**Date &nbsp;:calendar:**|**Lessons/Tasks Done :alarm_clock:**| **Reference Links :link:**|
+|------|-----------------|--------------------|---------------------|
+|Day 1|May 30, 2020| Learnt Kotlin Basics | [Codelabs](https://developer.android.com/courses/kotlin-bootcamp/overview)|
+|Day 2|May 31, 2020| Kotlin Project: **Random Project Idea Generator** | [Project Repo](https://github.com/chandrikadeb7/Random-ProjectIdeaGenerator)|
 
 Additionals :- experiments.cpp
