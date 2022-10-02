@@ -3,7 +3,7 @@ Hey, there. This is my CPP-Sprint In which I learnt CPP (basics) from the playli
 NOTE : executable files aren't included in the repo.
 # Timeline
 
-|**SL NO.**|**Topic:pushpin:**|**Date &nbsp;:calendar:**|**Programs**| **Youtube Video Links :link:**|
+|**SL NO.:1234:**|**Topic:pushpin:**|**Date:calendar:**|**Programs:technologist:**| **Youtube Video Links :link:**|
 |------|---------------------|---------------------|---------------------|---------------------|
 |1|Introduction to Programming|01st Oct 2022|-NONE-|[C++ Tutorials for Beginners #1](https://www.youtube.com/watch?v=j8nAHeVKL08&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=1)|
 |2|Introduction to CPP|01st Oct 2022|[Hello World Program](data/hello_world.cpp)|[C++ Tutorials for Beginners #2](https://www.youtube.com/watch?v=oW2r0r_i5Ps&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=2)|
@@ -21,7 +21,7 @@ NOTE : executable files aren't included in the repo.
 |14|Structures, Unions and Enum|1st Oct 2022|[Enum](data/enumm.cpp), [Structures](data/structure.cpp), [Structure using typedef](data/struct_typedef.cpp), [Union](data/unionn.cpp), [Union using typedef](data/unionn_typedef.cpp)|[C++ Tutorials for Beginnerss #14](https://www.youtube.com/watch?v=jCfR7CFlzts&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=14)|
 |15|Function & Function Prototype|1st Oct 2022|[Functions](data/functions.cpp), [Function Prototype](data/function_prototype.cpp)|[C++ Tutorials for Beginners #15](https://www.youtube.com/watch?v=RFLFX1boGwo&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=15)|
 |16|Call by Value and Call by Reference|1st Oct 2022|[Call by Value](data/functions.cpp), [Call by Reference](data/callbyreference.cpp), [Return by Reference](data/ReturnbyReference.cpp)|[C++ Tutorials for Beginners #16](https://www.youtube.com/watch?v=oQbyN-vDghA&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=16)|
-|17|Inline Function, Default Argument & Conflict Argument|2nd Oct 2022|[Inline Functions](data/inline_function.cpp), [Static Keyword](data/static_key.cpp), [Default Arguments](data/def_arguments.cpp)|[C++ Tutorials for Beginners #16](https://www.youtube.com/watch?v=oVvvwEx-gBw&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=17)|
+|17|Inline Function, Default Argument & Conflict Argument|2nd Oct 2022|[Inline Functions](data/inline_function.cpp), [Static Keyword](data/static_key.cpp), [Default Arguments](data/def_arguments.cpp)|[C++ Tutorials for Beginners #17](https://www.youtube.com/watch?v=oVvvwEx-gBw&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=17)|
 |18|Recursions & Recursive Functions|2nd Oct 2022|[Recursion](data/resursion.cpp)|[C++ Tutorials for Beginnerss #18](https://www.youtube.com/watch?v=JRKs3s15Kjc&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=18)|
 |19|Function Overloading|2nd Oct 2022|[Function Overloading](data/func_overld.cpp)|[C++ Tutorials for Beginners #19](https://www.youtube.com/watch?v=8qZb09suSHY&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=19)|
 |20|OOP in CPP|2nd Oct 2022| |[C++ Tutorials for Beginners #20](https://www.youtube.com/watch?v=nGJTWaaFdjc&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=20)|
@@ -29,10 +29,5 @@ NOTE : executable files aren't included in the repo.
 |22|OOPs Recap & Nesting Member Function|2nd Oct 2022| |[C++ Tutorials for Beginners #22](https://www.youtube.com/watch?v=d363dW0AeS8&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=22)|
 |23|Memory Allocation & array in Classses|2nd Oct 2022|[Use of Arrays in Class](data/class_array.cpp)|[C++ Tutorials for Beginners #23](https://www.youtube.com/watch?v=qq05D2yFIHA&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=23)|
 |24|Static Data Members & Methods in OOPs|2nd Oct 2022|[Static Data Member](data/class_var.cpp), [Static Member Function](data/static_func.cpp)|[C++ Tutorials for Beginners #24](https://www.youtube.com/watch?v=QcLI2zGVYFo&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=24)|
-
-|**Day:pushpin:**|**Date &nbsp;:calendar:**|**Lessons/Tasks Done :alarm_clock:**| **Reference Links :link:**|
-|------|-----------------|--------------------|---------------------|
-|Day 1|May 30, 2020| Learnt Kotlin Basics | [Codelabs](https://developer.android.com/courses/kotlin-bootcamp/overview)|
-|Day 2|May 31, 2020| Kotlin Project: **Random Project Idea Generator** | [Project Repo](https://github.com/chandrikadeb7/Random-ProjectIdeaGenerator)|
 
 Additionals :- experiments.cpp
