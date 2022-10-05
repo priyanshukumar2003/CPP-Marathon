@@ -82,3 +82,5 @@ NOTE : executable files aren't included in the repo.
 |74|Function objects (functors)|5th Oct 2022|[Functors](data/functors.cpp)|[C++ Tutorials for Beginners #74](https://www.youtube.com/watch?v=g4AQiptpcI8&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=74)|
 |75|Extra: Experiment File|5th Oct 2022|[Experiments](data/experiments.cpp)|[-NONE-](data/none.md)|
 |76|Extra: File Handling Alter|5th Oct 2022|[FILE IO](data/file_IO_c.cpp)|[-NONE-](data/none.md)|
+
+## This challenge was easy for me to complete as I had prior knowledge of C and C++. If you are new to C++ or any language, I would advice you to take more time to grasp and learn concepts instead of learning it faster.
