@@ -3,7 +3,7 @@ Hey, there. This is my CPP-Sprint In which I learnt CPP (basics) from the playli
 I challenged myself to complete it in 5 days. And here I am.....<br>
 NOTE : executable files aren't included in the repo.
 
-# Timeline
+## Timeline
 |**SL NO.:1234:**|**Topic:pushpin:**|**Date:calendar:**|**Programs:technologist:**| **Youtube Video Links :link:**|
 |------|---------------------|---------------------|---------------------|---------------------|
 |1|Introduction to Programming|01st Oct 2022|[-NONE-](data/none.md)|[C++ Tutorials for Beginners #1](https://www.youtube.com/watch?v=j8nAHeVKL08&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=1)|
@@ -83,4 +83,12 @@ NOTE : executable files aren't included in the repo.
 |75|Extra: Experiment File|5th Oct 2022|[Experiments](data/experiments.cpp)|[-NONE-](data/none.md)|
 |76|Extra: File Handling Alter|5th Oct 2022|[FILE IO](data/file_IO_c.cpp)|[-NONE-](data/none.md)|
 
-## This challenge was easy for me to complete as I had prior knowledge of C and C++. If you are new to C++ or any language, I would advice you to take more time to grasp and learn concepts instead of learning it faster.
+### This challenge was easy for me to complete as I had prior knowledge of C and C++. If you are new to C++ or any language, I would advice you to take more time to grasp and learn concepts instead of learning it faster.
+
+# Practice
+
+After CPP-Sprint was completed, now I am learning newer concepts from [Strivers A2Z DSA Course/Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)<br>
+Starting from 8th Oct 2022<br>
+
+<!--|**SL NO.:1234:**|**Topic:pushpin:**|**Date:calendar:**|**Programs:technologist:**|
+|------|---------------------|---------------------|---------------------|-->
