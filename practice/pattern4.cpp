@@ -11,9 +11,7 @@ using namespace std;
 
 int main()
 {
-    int size,a=0;
-    cout << "Enter the number of rows and columns ";
-    cin >> size;
+    int size=5,a=0;
     for (int i = 1; i <= size; i++)
     {
         a++;
