@@ -90,5 +90,28 @@ NOTE : executable files aren't included in the repo.
 After CPP-Sprint was completed, now I am learning newer concepts from [Strivers A2Z DSA Course/Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)<br>
 Starting from 8th Oct 2022<br>
 
-<!--|**SL NO.:1234:**|**Topic:pushpin:**|**Date:calendar:**|**Programs:technologist:**|
-|------|---------------------|---------------------|---------------------|-->
+|**SL NO.:1234:**|**Topic:pushpin:**|**Date:calendar:**|**Programs:technologist:**|
+|------|---------------------|---------------------|---------------------|
+|1|* * * * * <br>* * * * * <br>* * * * * <br>* * * * * <br>* * * * *|8th Oct 2022|[Pattern 1](practice/pattern1.cpp)|
+|2|* <br>* * <br>* * * <br>* * * * <br>* * * * *|8th Oct 2022|[Pattern 2](practice/pattern2.cpp)|
+|3|1<br>1 2<br>1 2 3<br>1 2 3 4<br>1 2 3 4 5|8th Oct 2022|[Pattern 3](practice/pattern3.cpp)|
+|4|1<br>2 2<br>3 3 3<br>4 4 4 4<br>5 5 5 5 5|8th Oct 2022|[Pattern 4](practice/pattern4.cpp)|
+|5|* * * * * <br>* * * * <br>* * * <br>* * <br>*|8th Oct 2022|[Pattern 5](practice/pattern5.cpp)|
+|6|1 2 3 4 5<br>1 2 3 4<br> 1 2 3<br> 1 2<br>1|8th Oct 2022|[Pattern 6](practice/pattern6.cpp)|
+|7|<div style="text-align:center;">* <br>* * * <br>* * * * * <br>* * * * * * * <br>* * * * * * * * * <br>* * * * * * * * * * *</div>|8th Oct 2022|[Pattern 7](practice/pattern7.cpp)|
+|8|<div style="text-align:center;">* * * * * * * * * * * <br>* * * * * * * * * <br>* * * * * * * <br>* * * * * <br>* * * <br>*</div>|8th Oct 2022|[Pattern 8](practice/pattern8.cpp)|
+|9|<div style="text-align:center;">* <br>* * * <br>* * * * * <br>* * * * * * * <br>* * * * * * * * * <br>* * * * * * * * * * * <br>* * * * * * * * * * * * <br>* * * * * * * * * * * <br>* * * * * * * * * <br>* * * * * * * <br>* * * * * <br>* * * <br>*</div>|8th Oct 2022|[Pattern 9](practice/pattern9.cpp)|
+|10|* <br>* * <br>* * * <br>* * * * <br>* * * * * <br>* * * * <br>* * * <br>* * <br>*|8th Oct 2022|[Pattern 10](practice/pattern10.cpp)|
+|11|1<br>0 1<br>1 0 1<br>0 1 0 1<br>1 0 1 0 1|8th Oct 2022|[Pattern 11](practice/pattern11.cpp)|
+|12|1 &emsp; &emsp; &emsp; &emsp; &nbsp; 1<br>1 2 &emsp; &emsp; &emsp; &nbsp;2 1<br>1 2 3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;3 2 1<br>1 2 3 4 &nbsp; &nbsp;4 3 2 1<br>1 2 3 4 5 4 3 2 1|8th Oct 2022| [Pattern 12](practice/pattern12.cpp)|
+|13|1<br>2 3<br>4 5 6<br>7 8 9 10<br>11 12 13 14 15|8th Oct 2022|[Pattern 13](practice/pattern13.cpp)|
+|14|A<br>A B<br>A B C<br>A B C D<br>A B C D E|8th Oct 2022|[Pattern 14](practice/pattern14.cpp)|
+|15|A B C D E<br>A B C D<br>A B C<br>A B<br>A|8th Oct 2022|[Pattern 15](practice/pattern15.cpp)|
+|16|A<br>B B<br>C C C<br>D D D D<br>E E E E E|8th Oct 2022|[Pattern 16](practice/pattern16.cpp)|
+|17|<div style="text-align:center">A<br>A B A<br>A B C B A<br>A B C D C B A<br>A B C D E D C B A|8th Oct 2022|[Pattern 17](practice/pattern17.cpp)|
+|18|E<br>D E<br>C D E<br>B C D E<br>A B C D E|8th OCt 2022|[Pattern 18](practice/pattern18.cpp)|
+|19|* * * * * * * * * * <br>* * * * &emsp; &nbsp;* * * * <br>* * * &emsp; &emsp; &nbsp;* * * <br>* * &emsp; &emsp; &emsp; &nbsp; * * <br>* &emsp; &emsp; &emsp; &emsp; &emsp;* <br>* * &emsp; &emsp; &emsp; &nbsp; * * <br>* * * &emsp; &emsp; &nbsp;* * * <br>* * * * &emsp; &nbsp;* * * * <br>* * * * * * * * * *|8th OCt 2022|[Pattern 19](practice/pattern19.cpp)|
+|20|* &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;* <br>* * &emsp; &emsp; &emsp;&emsp;* * <br>* * * &emsp; &emsp; &nbsp; * * * <br>* * * * &emsp; &nbsp;* * * * <br>* * * * * * * * * * <br>* * * * &emsp; &nbsp;* * * * <br>* * * &emsp; &emsp; &nbsp; * * * <br>* * &emsp; &emsp; &emsp;&emsp;* * <br>* &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;* |8th Oct 2022|[Pattern 20](practice/pattern20.cpp)|
+|21|* * * * * <br>* &emsp;&emsp;* <br>* &emsp;&emsp;* <br>* &emsp;&emsp;* <br>* &emsp;&emsp;* <br>* * * * *|8th Oct 2022|[Pattern 21](practice/pattern21.cpp)|
+|22|4 4 4 4 4 4 4<br>4 3 3 3 3 3 4<br>4 3 2 2 2 3 4<br>4 3 2 1 2 3 4<br> 4 3 2 2 2 3 4<br>4 3 3 3 3 3 4<br>4 4 4 4 4 4 4|8th Oct 2022|[Pattern 22](practice/pattern22.cpp)|
+|23|Program to count digits in a number|8th Oct 2022|[Count Digits](practice/count_digit.cpp)|

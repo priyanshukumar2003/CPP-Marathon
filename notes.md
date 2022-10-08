@@ -236,3 +236,7 @@ class Derived_Containers{
     priority_queue()
 }
 ```
+
+## Java Collections (needed for DSA)
+
+The Java Collections framework is a set of classses and interfaces that implement commonly reusable collection data structures. Although referresd to as framework, it works in a manner of a library. The collections framework provides both interface that defines various collections and classes that implement them.
